@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSP-SP001-09-CTDPFJ000-recovered_cspp-ctdpf_j_cspp_instrument_recovered
 data_stream: CE01ISSP-SP001-09-CTDPFJ000-recovered_cspp-ctdpf_j_cspp_instrument_recovered
 end_date: '2021-09-16T20:08:52.743Z'
-last_updated: '2022-01-01T21:31:54.561754Z'
+last_updated: '2022-01-01T21:39:07.077740'
 start_date: '2014-04-17T22:28:13.749Z'
-status: pending
+status: success
